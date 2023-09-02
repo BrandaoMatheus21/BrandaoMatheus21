@@ -6,4 +6,5 @@ Sou aluno e estudo programação, estou criando meu primeiro repositório e estu
 
 ## Objetivos
 
-Ter uma boa carreira profissional. 
+Desenvolver uma boa carreira profissional e pessoal.
+Buscar sempre me especializar.
